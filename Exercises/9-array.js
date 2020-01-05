@@ -1,10 +1,10 @@
 'use strict';
 
 const phonebook = [
-  { name: 'Pasha', phone: '+380502275754' },
-  { name: 'Sasha', phone: '+380996423678' },
-  { name: 'Mama', phone: '+380502271374' },
-  { name: 'Batya', phone: '+380502283221' }
+  { name: 'P', phone: '+38050227' },
+  { name: 'S', phone: '+38099642' },
+  { name: 'M', phone: '+380502271' },
+  { name: 'B', phone: '+380502265' }
 ];
 
 const findPhoneByName = name => {
